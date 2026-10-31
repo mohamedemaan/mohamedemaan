@@ -223,7 +223,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <h2 align="center">🚀 Featured Engineering Projects</h2>
 
 <p align="center">
-  <em>Highlighting production applications, machine learning architectures, and research systems</em>
+  <em>Highlighting production applications, machine learning architectures, and full-stack platforms</em>
 </p>
 
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
@@ -259,37 +259,11 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
       </p>
     </td>
 
-    <!-- PROJECT 2: AEGISFLOW -->
+    <!-- PROJECT 2: AHNAF & CO -->
     <td width="50%" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
-      <h3>🛡️ AegisFlow</h3>
-      <p>
-        <strong>Predictive Monitoring & Failure Risk Analysis for Distributed Pipelines</strong>
-      </p>
-      <p>
-        <em>Final-Year Research Project</em><br/>
-        An AI-powered telemetry intelligence platform engineered to predict distributed data pipeline disruptions (e.g. Apache Kafka) caused by CPU saturation, memory leaks, and retry overload before catastrophic downtime occurs.
-      </p>
-      <p>
-        <strong>Core Capabilities:</strong>
-        <ul>
-          <li>Real-time pipeline telemetry ingestion & continuous health indexing</li>
-          <li>ML-based anomaly classification and failure risk forecasting</li>
-          <li>LLM-driven automated root-cause analysis (RCA)</li>
-          <li>RAG-based diagnostic knowledge assistant</li>
-          <li>Live operational health telemetry & risk matrix dashboard</li>
-        </ul>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Final--Year_Research_Project-0D1117?style=for-the-badge&logo=target&logoColor=F59E0B&labelColor=0D1117" alt="Research Project" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- PROJECT 3: AHNAF & CO (Spanning Row) -->
-    <td colspan="2" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
       <h3>🛍️ Ahnaf & Co</h3>
       <p>
-        <strong>Full-Stack MERN E-Commerce Platform & Enterprise Administration Suite</strong>
+        <strong>Full-Stack MERN E-Commerce Platform & Administration Suite</strong>
       </p>
       <p>
         A modern, responsive e-commerce web platform featuring real-time client-side interactions, persistent state management, multi-step checkout workflows, and a dedicated administrative operations portal.
@@ -301,11 +275,11 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
       <p>
         <strong>Key Features:</strong>
         <ul>
-          <li>Interactive product discovery, multi-attribute category filtering, and high-performance search</li>
-          <li>Rich product viewports, dynamic image galleries, customer ratings, and verified review threads</li>
-          <li>Persistent shopping cart architecture and friction-free multi-step COD checkout flow</li>
+          <li>Interactive product discovery, multi-attribute filtering & search</li>
+          <li>Rich product viewports, dynamic galleries & review threads</li>
+          <li>Persistent shopping cart & multi-step COD checkout flow</li>
           <li>Customer order tracking and transaction history management</li>
-          <li>Dedicated administrative dashboard with comprehensive product CRUD and inventory controls</li>
+          <li>Dedicated admin portal with product CRUD & inventory controls</li>
         </ul>
       </p>
       <p>
@@ -316,7 +290,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
         <a href="https://ahnaf-co.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Store-ahnaf--co.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=0D1117" alt="Customer Website" />
         </a>
-        &nbsp;
+        <br/><br/>
         <a href="https://ahnaf-admin.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Admin_Portal-ahnaf--admin.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=0D1117" alt="Admin Dashboard" />
         </a>
