@@ -222,23 +222,6 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
-      <h3>⚡ SalesMind AI</h3>
-      <p><strong>AI-Powered Sales Forecasting, Intelligence &amp; Analytics Platform</strong></p>
-      <p>An enterprise analytics engine combining statistical time-series forecasting with generative intelligence and dynamic anomaly detection to transform corporate sales workflows.</p>
-      <p><strong>Tech Stack:</strong><br/>
-      <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Python</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Statsmodels</code> • <code>Pandas</code> • <code>PostgreSQL</code> • <code>Gemini AI</code> • <code>FAISS</code> • <code>Docker</code></p>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>Auto-ARIMA &amp; Seasonal Naive predictive time-series models</li>
-        <li>Walk-forward validation with WAPE &amp; RMSE evaluation</li>
-        <li>Dynamic real-time anomaly detection</li>
-        <li>Gemini AI Sales Advisor &amp; Hybrid RAG Knowledge Assistant</li>
-        <li>Executive analytics dashboards with CSV, JSON &amp; PDF exports</li>
-        <li>Historical prediction auditing and continuous model monitoring</li>
-      </ul>
-      <p><a href="https://github.com/mohamedemaan/AI-Powered-Sales-Intelligence-Forecasting-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub-View_Repository-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=C59B27" alt="View Repository" /></a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
       <h3>🛍️ Ahnaf &amp; Co</h3>
       <p><strong>Full-Stack MERN E-Commerce Platform &amp; Administration Suite</strong></p>
       <p>A modern, responsive e-commerce web platform featuring real-time client-side interactions, persistent state management, multi-step checkout workflows, and a dedicated administrative operations portal.</p>
@@ -253,6 +236,23 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
         <li>Dedicated admin portal with product CRUD &amp; inventory controls</li>
       </ul>
       <p><a href="https://github.com/mohamedemaan/ahnaf-co" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=C59B27" alt="GitHub Repo" /></a>&nbsp;<a href="https://ahnaf-co.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Store-ahnaf--co.vercel.app-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Customer Website" /></a><br/><br/><a href="https://ahnaf-admin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Admin_Portal-ahnaf--admin.vercel.app-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Admin Dashboard" /></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
+      <h3>⚡ SalesMind AI</h3>
+      <p><strong>AI-Powered Sales Forecasting, Intelligence &amp; Analytics Platform</strong></p>
+      <p>An enterprise analytics engine combining statistical time-series forecasting with generative intelligence and dynamic anomaly detection to transform corporate sales workflows.</p>
+      <p><strong>Tech Stack:</strong><br/>
+      <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Python</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Statsmodels</code> • <code>Pandas</code> • <code>PostgreSQL</code> • <code>Gemini AI</code> • <code>FAISS</code> • <code>Docker</code></p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Auto-ARIMA &amp; Seasonal Naive predictive time-series models</li>
+        <li>Walk-forward validation with WAPE &amp; RMSE evaluation</li>
+        <li>Dynamic real-time anomaly detection</li>
+        <li>Gemini AI Sales Advisor &amp; Hybrid RAG Knowledge Assistant</li>
+        <li>Executive analytics dashboards with CSV, JSON &amp; PDF exports</li>
+        <li>Historical prediction auditing and continuous model monitoring</li>
+      </ul>
+      <p><a href="https://github.com/mohamedemaan/AI-Powered-Sales-Intelligence-Forecasting-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub-View_Repository-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=C59B27" alt="View Repository" /></a>&nbsp;<a href="https://ai-powered-sales-intelligence-forec.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_App-SalesMind_AI-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Live Platform" /></a></p>
     </td>
   </tr>
 </table>
