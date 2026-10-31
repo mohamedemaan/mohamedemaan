@@ -20,32 +20,32 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 📡 ABOUT ME SECTION                       -->
+<!-- ◈ ABOUT ME SECTION                         -->
 <!-- ========================================== -->
 
-## 📡 About Me
+<h2 align="left">◈ About Me</h2>
 
 <img align="right" width="340" src="assets/about-animation.gif" alt="Animated AI Developer Illustration" />
 
 <p>
-  <strong>⚡ Transforming Data into Intelligence &amp; Real-World Impact</strong>
+  <strong>◈ Transforming Data into Intelligence &amp; Real-World Impact</strong>
 </p>
 
 I'm **Mohamed Emaan**, an aspiring **AI/ML Engineer** pursuing a **B.Tech in Artificial Intelligence &amp; Data Science** at **CARE College of Engineering** (Class of 2023–2027), based in Ayyampettai, Thanjavur, Tamil Nadu, India.
 
 I am deeply passionate about Artificial Intelligence, Machine Learning, Generative AI, and building production-grade intelligent systems. My technical focus centers on transforming raw data into actionable intelligence through predictive modeling, automated pipelines, and modern software engineering.
 
-### 🎯 Core Areas of Interest &amp; Research:
-- 🧠 **Machine Learning &amp; Predictive Analytics** — Statistical forecasting, time-series analysis, and model optimization.
-- ⚡ **Generative AI &amp; LLM Systems** — Enterprise-grade Prompt Engineering, Agentic Workflows, and Reasoning Chains.
-- 🔍 **Retrieval-Augmented Generation (RAG)** — Hybrid dense/sparse retrieval with FAISS vector indexing.
-- 📈 **Time-Series Forecasting** — Auto-ARIMA, Seasonal Naive, Walk-Forward Validation, and WAPE/RMSE benchmarking.
-- 🛡️ **Predictive Telemetry &amp; Anomaly Detection** — Proactive risk modeling for distributed data pipelines.
-- 💻 **Full-Stack Application Development** — High-performance backend architectures with FastAPI/Node.js and modern React frontends.
+### ◈ Core Areas of Interest &amp; Research:
+- ◈ **Machine Learning &amp; Predictive Analytics** — Statistical forecasting, time-series analysis, and model optimization.
+- ◈ **Generative AI &amp; LLM Systems** — Enterprise-grade Prompt Engineering, Agentic Workflows, and Reasoning Chains.
+- ◈ **Retrieval-Augmented Generation (RAG)** — Hybrid dense/sparse retrieval with FAISS vector indexing.
+- ◈ **Time-Series Forecasting** — Auto-ARIMA, Seasonal Naive, Walk-Forward Validation, and WAPE/RMSE benchmarking.
+- ◈ **Predictive Telemetry &amp; Anomaly Detection** — Proactive risk modeling for distributed data pipelines.
+- ◈ **Full-Stack Application Development** — High-performance backend architectures with FastAPI/Node.js and modern React frontends.
 
 <br/>
 
-#### ⭐ Follow &amp; Connect With Me:
+#### ◈ Follow &amp; Connect With Me:
 <p>
   <a href="https://linkedin.com/in/mohamed-emaan-05b829408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Emaan-0D1117?style=for-the-badge&logo=linkedin&logoColor=E2E8F0&labelColor=0D1117" alt="LinkedIn" />
@@ -65,10 +65,10 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- 📎 LANGUAGES & TOOLS I HAVE WORKED WITH   -->
+<!-- ◈ LANGUAGES & TOOLS I HAVE WORKED WITH     -->
 <!-- ========================================== -->
 
-<h2 align="center">📎 Languages &amp; Tools I Have Worked With</h2>
+<h2 align="center">◈ Languages &amp; Tools I Have Worked With</h2>
 
 <p align="center">
   <em>Core technical competencies across programming, artificial intelligence, application engineering, and infrastructure</em>
@@ -88,10 +88,10 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- ⚡ GITHUB STATISTICS                       -->
+<!-- ◈ GITHUB STATISTICS                       -->
 <!-- ========================================== -->
 
-<h2 align="center">⚡ GitHub Profile Statistics</h2>
+<h2 align="center">◈ GitHub Profile Statistics</h2>
 
 <p align="center">
   <em>Real-time repository telemetry, activity metrics, and contribution streak</em>
@@ -102,7 +102,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
     <tr align="center">
       <td valign="middle" align="center">
         <a href="https://github.com/mohamedemaan">
-          <img src="https://github-stats-alpha.vercel.app/api?username=mohamedemaan&amp;show_icons=true&amp;bg_color=0D1117&amp;text_color=F8FAFC&amp;title_color=E2E8F0&amp;icon_color=CBD5E1&amp;border_color=64748B&amp;hide_border=false" width="460" alt="Mohamed Emaan's GitHub Stats" />
+          <img src="assets/github-stats.svg" width="460" alt="Mohamed Emaan's GitHub Stats" />
         </a>
       </td>
       <td valign="middle" align="center">
@@ -121,10 +121,10 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- 💻 TECH STACK SECTION                      -->
+<!-- ◈ TECH STACK SECTION                      -->
 <!-- ========================================== -->
 
-<h2 align="center">💻 Tech Stack &amp; Architecture</h2>
+<h2 align="center">◈ Tech Stack &amp; Architecture</h2>
 
 <p align="center">
   <em>Comprehensive technical index categorized by operational domain</em>
@@ -133,7 +133,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td width="30%" valign="top">
-      <strong>⚡ Programming Languages</strong>
+      <strong>◈ Programming Languages</strong>
     </td>
     <td width="70%" valign="top">
       <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="Python" />
@@ -143,7 +143,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🧠 Artificial Intelligence &amp; ML</strong>
+      <strong>◈ Artificial Intelligence &amp; ML</strong>
     </td>
     <td width="70%" valign="top">
       <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="Machine Learning" />
@@ -156,7 +156,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🌐 Frontend Development</strong>
+      <strong>◈ Frontend Development</strong>
     </td>
     <td width="70%" valign="top">
       <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="Next.js" />
@@ -169,7 +169,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>⚙️ Backend Development</strong>
+      <strong>◈ Backend Development</strong>
     </td>
     <td width="70%" valign="top">
       <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&amp;logo=fastapi&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="FastAPI" />
@@ -179,7 +179,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🗄️ Databases &amp; Storage</strong>
+      <strong>◈ Databases &amp; Storage</strong>
     </td>
     <td width="70%" valign="top">
       <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="PostgreSQL" />
@@ -189,7 +189,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🛠️ Developer Tools &amp; DevOps</strong>
+      <strong>◈ Developer Tools &amp; DevOps</strong>
     </td>
     <td width="70%" valign="top">
       <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="Docker" />
@@ -210,10 +210,10 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- 🚀 FEATURED PROJECTS                      -->
+<!-- ◈ FEATURED PROJECTS                        -->
 <!-- ========================================== -->
 
-<h2 align="center">🚀 Featured Engineering Projects</h2>
+<h2 align="center">◈ Featured Engineering Projects</h2>
 
 <p align="center">
   <em>Highlighting production applications, machine learning architectures, and full-stack platforms</em>
@@ -222,7 +222,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #64748B; border-radius: 8px; background: #0D1117;">
-      <h3>🛍️ Ahnaf &amp; Co</h3>
+      <h3>◈ Ahnaf &amp; Co</h3>
       <p><strong>Full-Stack MERN E-Commerce Platform &amp; Administration Suite</strong></p>
       <p>A modern, responsive e-commerce web platform featuring real-time client-side interactions, persistent state management, multi-step checkout workflows, and a dedicated administrative operations portal.</p>
       <p><strong>Tech Stack:</strong><br/>
@@ -238,7 +238,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
       <p><a href="https://github.com/mohamedemaan/ahnaf-co" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-E2E8F0?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=64748B" alt="GitHub Repo" /></a>&nbsp;<a href="https://ahnaf-co.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Store-ahnaf--co.vercel.app-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="Customer Website" /></a><br/><br/><a href="https://ahnaf-admin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Admin_Portal-ahnaf--admin.vercel.app-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="Admin Dashboard" /></a></p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #64748B; border-radius: 8px; background: #0D1117;">
-      <h3>⚡ SalesMind AI</h3>
+      <h3>◈ SalesMind AI</h3>
       <p><strong>AI-Powered Sales Forecasting, Intelligence &amp; Analytics Platform</strong></p>
       <p>An enterprise analytics engine combining statistical time-series forecasting with generative intelligence and dynamic anomaly detection to transform corporate sales workflows.</p>
       <p><strong>Tech Stack:</strong><br/>
@@ -264,10 +264,10 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- 🏆 CERTIFICATIONS                          -->
+<!-- ◈ CERTIFICATIONS                          -->
 <!-- ========================================== -->
 
-<h2 align="center">🏆 Honors &amp; Certifications</h2>
+<h2 align="center">◈ Honors &amp; Certifications</h2>
 
 <p align="center">
   <em>Verified technical credentials and domain proficiencies</em>
@@ -276,12 +276,12 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td width="50%" align="center" style="border: 1px solid #64748B; border-radius: 8px; background: #0D1117;">
-      <h4>🐍 Python (Basic)</h4>
+      <h4>◈ Python (Basic)</h4>
       <p><strong>Issuing Organization:</strong> HackerRank</p>
       <img src="https://img.shields.io/badge/Certified-HackerRank_Python-0D1117?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="HackerRank Python Basic" />
     </td>
     <td width="50%" align="center" style="border: 1px solid #64748B; border-radius: 8px; background: #0D1117;">
-      <h4>☁️ AWS Machine Learning with NLP</h4>
+      <h4>◈ AWS Machine Learning with NLP</h4>
       <p><strong>Issuing Organization:</strong> AWS Academy</p>
       <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_NLP-0D1117?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=E2E8F0&amp;labelColor=0D1117" alt="AWS Machine Learning NLP" />
     </td>
@@ -295,10 +295,10 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- 📊 CONTRIBUTION GRAPH                      -->
+<!-- ◈ CONTRIBUTION GRAPH                      -->
 <!-- ========================================== -->
 
-<h2 align="center">📊 Contribution Activity &amp; Visualizer</h2>
+<h2 align="center">◈ Contribution Activity &amp; Visualizer</h2>
 
 <p align="center">
   <em>Continuous development activity and commit telemetry across open-source initiatives</em>
@@ -313,12 +313,12 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <br/>
 
 <!-- ========================================== -->
-<!-- 🤝 SUPPORT & CONNECT                      -->
+<!-- ◈ SUPPORT & CONNECT                       -->
 <!-- ========================================== -->
 
 <div align="center">
 
-  <h2>Support &amp; Connect 🔥</h2>
+  <h2>◈ Support &amp; Connect</h2>
 
   <p>
     <em>Interested in collaboration, machine learning research, or full-stack engineering opportunities? Let's connect!</em>

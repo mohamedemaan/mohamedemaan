@@ -6,7 +6,7 @@
 
         .text {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            fill: #000;
+            fill: #F8FAFC;
             font-size: 14px;
         }
 
@@ -17,13 +17,13 @@
 
         .followers {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            fill: #000;
+            fill: #F8FAFC;
             font-size: 12px;
         }
 
         .namepl {
             font-family: Arial, Helvetica, sans-serif;
-            fill: #000;
+            fill: #F8FAFC;
             font-size: 17px;
             font-weight: 600;
             alignment-baseline: middle;
@@ -31,7 +31,7 @@
         }
 
         .icon {
-            fill: #FF0000;
+            fill: #CBD5E1;
             display: block;
         }
 
@@ -58,7 +58,7 @@
             }
         }
     </style>
-    <rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#fff" stroke="#7e7979" stroke-opacity="1" />
+    <rect x="0.5" y="0.5" rx="4.5" height="99%" width="494" fill="#0D1117" stroke="#64748B" stroke-opacity="1" />
 
     <g transform="translate(0, 25)">
 
@@ -72,7 +72,7 @@
             </image>
         </pattern>
     </defs>
-    <circle cx="86" cy="44" r="40" stroke="#fff" stroke-width="3" fill="url(#image)" />
+    <circle cx="86" cy="44" r="40" stroke="#94A3B8" stroke-width="2" fill="url(#image)" />
         <text x="86" y="100" class="namepl">Mohamed Emaan</text>
         <svg x="35" y="111.8" class="icon" viewBox="0 0 16 16" version="1.1" width="14" height="14">
             <path fill-rule="evenodd"
