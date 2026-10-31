@@ -1,0 +1,262 @@
+<svg width="100%" height="auto" viewBox="0 0 820 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="gold-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="tile-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B15" />
+      <stop offset="50%" stop-color="#12141A" />
+      <stop offset="100%" stop-color="#0A0B0F" />
+    </linearGradient>
+    <linearGradient id="gold-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF0A0" />
+      <stop offset="35%" stop-color="#F59E0B" />
+      <stop offset="70%" stop-color="#B8860B" />
+      <stop offset="100%" stop-color="#785507" />
+    </linearGradient>
+    <linearGradient id="gold-text" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFBEB" />
+      <stop offset="50%" stop-color="#FDE68A" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+
+
+    <g transform="translate(34, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">PY</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Python</text>
+    </g>
+
+    <g transform="translate(120, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">JS</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">JavaScript</text>
+    </g>
+
+    <g transform="translate(206, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">TS</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">TypeScript</text>
+    </g>
+
+    <g transform="translate(292, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">SK</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Scikit-Learn</text>
+    </g>
+
+    <g transform="translate(378, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">PD</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Pandas</text>
+    </g>
+
+    <g transform="translate(464, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">FA</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">FastAPI</text>
+    </g>
+
+    <g transform="translate(550, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">RE</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">React</text>
+    </g>
+
+    <g transform="translate(636, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">NX</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Next.js</text>
+    </g>
+
+    <g transform="translate(722, 12)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">TW</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Tailwind</text>
+    </g>
+
+    <g transform="translate(34, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">ND</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Node.js</text>
+    </g>
+
+    <g transform="translate(120, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">EX</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Express</text>
+    </g>
+
+    <g transform="translate(206, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">MG</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">MongoDB</text>
+    </g>
+
+    <g transform="translate(292, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">PG</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">PostgreSQL</text>
+    </g>
+
+    <g transform="translate(378, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">DK</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Docker</text>
+    </g>
+
+    <g transform="translate(464, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">GT</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Git</text>
+    </g>
+
+    <g transform="translate(550, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">GH</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">GitHub</text>
+    </g>
+
+    <g transform="translate(636, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">VS</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">VS Code</text>
+    </g>
+
+    <g transform="translate(722, 98)">
+      <!-- Outer Glow -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.4" filter="url(#gold-glow)"/>
+      <!-- Tile Body -->
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#tile-bg)" stroke="url(#gold-border)" stroke-width="1.8"/>
+      <!-- Inner Glow Accent -->
+      <circle cx="32" cy="28" r="18" fill="#F59E0B" opacity="0.12" filter="url(#gold-glow)"/>
+      <!-- Code Badge / Icon -->
+      <text x="32" y="35" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="800" font-size="20" fill="url(#gold-text)" text-anchor="middle" letter-spacing="0.5">PR</text>
+      <!-- Label -->
+      <text x="32" y="57" font-family="Segoe UI, -apple-system, Roboto, sans-serif" font-weight="600" font-size="8.5" fill="#C59B27" text-anchor="middle" letter-spacing="0.3">Prometheus</text>
+    </g>
+</svg>
