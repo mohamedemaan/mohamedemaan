@@ -28,24 +28,24 @@
 <img align="right" width="340" src="assets/about-animation.gif" alt="Animated AI Developer Illustration" />
 
 <p>
-  <strong>🔥 Transforming Data into Intelligence & Real-World Impact</strong>
+  <strong>🔥 Transforming Data into Intelligence &amp; Real-World Impact</strong>
 </p>
 
-I'm **Mohamed Emaan**, an aspiring **AI/ML Engineer** pursuing a **B.Tech in Artificial Intelligence & Data Science** at **CARE College of Engineering** (Class of 2023–2027), based in Ayyampettai, Thanjavur, Tamil Nadu, India.
+I'm **Mohamed Emaan**, an aspiring **AI/ML Engineer** pursuing a **B.Tech in Artificial Intelligence &amp; Data Science** at **CARE College of Engineering** (Class of 2023–2027), based in Ayyampettai, Thanjavur, Tamil Nadu, India.
 
 I am deeply passionate about Artificial Intelligence, Machine Learning, Generative AI, and building production-grade intelligent systems. My technical focus centers on transforming raw data into actionable intelligence through predictive modeling, automated pipelines, and modern software engineering.
 
-### 🎯 Core Areas of Interest & Research:
-- 🧠 **Machine Learning & Predictive Analytics** — Statistical forecasting, time-series analysis, and model optimization.
-- ⚡ **Generative AI & LLM Systems** — Enterprise-grade Prompt Engineering, Agentic Workflows, and Reasoning Chains.
+### 🎯 Core Areas of Interest &amp; Research:
+- 🧠 **Machine Learning &amp; Predictive Analytics** — Statistical forecasting, time-series analysis, and model optimization.
+- ⚡ **Generative AI &amp; LLM Systems** — Enterprise-grade Prompt Engineering, Agentic Workflows, and Reasoning Chains.
 - 🔍 **Retrieval-Augmented Generation (RAG)** — Hybrid dense/sparse retrieval with FAISS vector indexing.
 - 📈 **Time-Series Forecasting** — Auto-ARIMA, Seasonal Naive, Walk-Forward Validation, and WAPE/RMSE benchmarking.
-- 🛡️ **Predictive Telemetry & Anomaly Detection** — Proactive risk modeling for distributed data pipelines.
+- 🛡️ **Predictive Telemetry &amp; Anomaly Detection** — Proactive risk modeling for distributed data pipelines.
 - 💻 **Full-Stack Application Development** — High-performance backend architectures with FastAPI/Node.js and modern React frontends.
 
 <br/>
 
-#### ⭐ Follow & Connect With Me:
+#### ⭐ Follow &amp; Connect With Me:
 <p>
   <a href="https://linkedin.com/in/mohamed-emaan-05b829408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Emaan-0D1117?style=for-the-badge&logo=linkedin&logoColor=F59E0B&labelColor=0D1117" alt="LinkedIn" />
@@ -68,7 +68,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <!-- 📎 LANGUAGES & TOOLS I HAVE WORKED WITH   -->
 <!-- ========================================== -->
 
-<h2 align="center">📎 Languages & Tools I Have Worked With</h2>
+<h2 align="center">📎 Languages &amp; Tools I Have Worked With</h2>
 
 <p align="center">
   <em>Core technical competencies across programming, artificial intelligence, application engineering, and infrastructure</em>
@@ -80,13 +80,6 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 </div>
 
 <br/>
-
-<div align="center">
-  <!-- Interactive recognizable skill icon badges -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,sklearn,react,nextjs,tailwind,fastapi,nodejs,express,mongodb,postgres,sqlite,docker,git,github,vscode,postman,grafana&theme=dark" alt="Skill Icons" />
-  </a>
-</div>
 
 <div align="center">
   <img src="assets/gold-divider.svg" width="100%" />
@@ -109,12 +102,12 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
     <tr align="center">
       <td valign="middle" align="center">
         <a href="https://github.com/mohamedemaan">
-          <img src="https://github-stats-alpha.vercel.app/api?username=mohamedemaan&show_icons=true&bg_color=0D1117&text_color=FFF4C2&title_color=F59E0B&icon_color=F59E0B&border_color=C59B27&hide_border=false" width="460" alt="Mohamed Emaan's GitHub Stats" />
+          <img src="https://github-stats-alpha.vercel.app/api?username=mohamedemaan&amp;show_icons=true&amp;bg_color=0D1117&amp;text_color=FFF4C2&amp;title_color=F59E0B&amp;icon_color=F59E0B&amp;border_color=C59B27&amp;hide_border=false" width="460" alt="Mohamed Emaan's GitHub Stats" />
         </a>
       </td>
       <td valign="middle" align="center">
         <a href="https://github.com/mohamedemaan">
-          <img src="https://streak-stats.demolab.com/?user=mohamedemaan&background=0D1117&border=C59B27&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakNum=FFF4C2&sideNums=FFF4C2&currStreakLabel=F59E0B&sideLabels=C59B27&dates=8B949E" width="460" alt="Mohamed Emaan's GitHub Streak" />
+          <img src="https://streak-stats.demolab.com/?user=mohamedemaan&amp;background=0D1117&amp;border=C59B27&amp;stroke=F59E0B&amp;ring=F59E0B&amp;fire=F59E0B&amp;currStreakNum=FFF4C2&amp;sideNums=FFF4C2&amp;currStreakLabel=F59E0B&amp;sideLabels=C59B27&amp;dates=8B949E" width="460" alt="Mohamed Emaan's GitHub Streak" />
         </a>
       </td>
     </tr>
@@ -131,7 +124,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <!-- 💻 TECH STACK SECTION                      -->
 <!-- ========================================== -->
 
-<h2 align="center">💻 Tech Stack & Architecture</h2>
+<h2 align="center">💻 Tech Stack &amp; Architecture</h2>
 
 <p align="center">
   <em>Comprehensive technical index categorized by operational domain</em>
@@ -143,22 +136,22 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
       <strong>⚡ Programming Languages</strong>
     </td>
     <td width="70%" valign="top">
-      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F59E0B&labelColor=0D1117" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=F59E0B&labelColor=0D1117" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&amp;logo=typescript&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="TypeScript" />
     </td>
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🧠 Artificial Intelligence & ML</strong>
+      <strong>🧠 Artificial Intelligence &amp; ML</strong>
     </td>
     <td width="70%" valign="top">
-      <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B&labelColor=0D1117" alt="Machine Learning" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B&labelColor=0D1117" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=F59E0B&labelColor=0D1117" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Statsmodels-0D1117?style=for-the-badge&logo=scipy&logoColor=F59E0B&labelColor=0D1117" alt="Statsmodels" />
-      <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=F59E0B&labelColor=0D1117" alt="Generative AI" />
-      <img src="https://img.shields.io/badge/RAG_Architecture-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=F59E0B&labelColor=0D1117" alt="RAG Architecture" />
+      <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&amp;logo=pandas&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Statsmodels-0D1117?style=for-the-badge&amp;logo=scipy&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Statsmodels" />
+      <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&amp;logo=openai&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Generative AI" />
+      <img src="https://img.shields.io/badge/RAG_Architecture-0D1117?style=for-the-badge&amp;logo=diagramsdotnet&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="RAG Architecture" />
     </td>
   </tr>
   <tr>
@@ -166,12 +159,12 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
       <strong>🌐 Frontend Development</strong>
     </td>
     <td width="70%" valign="top">
-      <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=F59E0B&labelColor=0D1117" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=F59E0B&labelColor=0D1117" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=F59E0B&labelColor=0D1117" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=F59E0B&labelColor=0D1117" alt="Vite" />
-      <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=F59E0B&labelColor=0D1117" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=F59E0B&labelColor=0D1117" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&amp;logo=react&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&amp;logo=vite&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Vite" />
+      <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&amp;logo=html5&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&amp;logo=css3&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="CSS3" />
     </td>
   </tr>
   <tr>
@@ -179,33 +172,33 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
       <strong>⚙️ Backend Development</strong>
     </td>
     <td width="70%" valign="top">
-      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=F59E0B&labelColor=0D1117" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=F59E0B&labelColor=0D1117" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=F59E0B&labelColor=0D1117" alt="Express.js" />
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&amp;logo=express&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Express.js" />
     </td>
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🗄️ Databases & Storage</strong>
+      <strong>🗄️ Databases &amp; Storage</strong>
     </td>
     <td width="70%" valign="top">
-      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=F59E0B&labelColor=0D1117" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=F59E0B&labelColor=0D1117" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=F59E0B&labelColor=0D1117" alt="SQLite" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&amp;logo=mongodb&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&amp;logo=sqlite&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="SQLite" />
     </td>
   </tr>
   <tr>
     <td width="30%" valign="top">
-      <strong>🛠️ Developer Tools & DevOps</strong>
+      <strong>🛠️ Developer Tools &amp; DevOps</strong>
     </td>
     <td width="70%" valign="top">
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=F59E0B&labelColor=0D1117" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F59E0B&labelColor=0D1117" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0D1117" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=F59E0B&labelColor=0D1117" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=F59E0B&labelColor=0D1117" alt="Postman" />
-      <img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=F59E0B&labelColor=0D1117" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F59E0B&labelColor=0D1117" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&amp;logo=postman&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Postman" />
+      <img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&amp;logo=prometheus&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&amp;logo=grafana&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Grafana" />
     </td>
   </tr>
 </table>
@@ -228,73 +221,38 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
   <tr>
-    <!-- PROJECT 1: SALESMIND AI -->
     <td width="50%" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
       <h3>⚡ SalesMind AI</h3>
-      <p>
-        <strong>AI-Powered Sales Forecasting, Intelligence & Analytics Platform</strong>
-      </p>
-      <p>
-        An enterprise analytics engine combining statistical time-series forecasting with generative intelligence and dynamic anomaly detection to transform corporate sales workflows.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong><br/>
-        <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Python</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Statsmodels</code> • <code>Pandas</code> • <code>PostgreSQL</code> • <code>Gemini AI</code> • <code>FAISS</code> • <code>Docker</code>
-      </p>
-      <p>
-        <strong>Key Features:</strong>
-        <ul>
-          <li>Auto-ARIMA & Seasonal Naive predictive time-series models</li>
-          <li>Walk-forward validation with WAPE & RMSE evaluation</li>
-          <li>Dynamic real-time anomaly detection</li>
-          <li>Gemini AI Sales Advisor & Hybrid RAG Knowledge Assistant</li>
-          <li>Executive analytics dashboards with CSV, JSON & PDF exports</li>
-          <li>Historical prediction auditing and continuous model monitoring</li>
-        </ul>
-      </p>
-      <p>
-        <a href="https://github.com/mohamedemaan/AI-Powered-Sales-Intelligence-Forecasting-Platform" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=C59B27" alt="View Repository" />
-        </a>
-      </p>
+      <p><strong>AI-Powered Sales Forecasting, Intelligence &amp; Analytics Platform</strong></p>
+      <p>An enterprise analytics engine combining statistical time-series forecasting with generative intelligence and dynamic anomaly detection to transform corporate sales workflows.</p>
+      <p><strong>Tech Stack:</strong><br/>
+      <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Python</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Statsmodels</code> • <code>Pandas</code> • <code>PostgreSQL</code> • <code>Gemini AI</code> • <code>FAISS</code> • <code>Docker</code></p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Auto-ARIMA &amp; Seasonal Naive predictive time-series models</li>
+        <li>Walk-forward validation with WAPE &amp; RMSE evaluation</li>
+        <li>Dynamic real-time anomaly detection</li>
+        <li>Gemini AI Sales Advisor &amp; Hybrid RAG Knowledge Assistant</li>
+        <li>Executive analytics dashboards with CSV, JSON &amp; PDF exports</li>
+        <li>Historical prediction auditing and continuous model monitoring</li>
+      </ul>
+      <p><a href="https://github.com/mohamedemaan/AI-Powered-Sales-Intelligence-Forecasting-Platform" target="_blank"><img src="https://img.shields.io/badge/GitHub-View_Repository-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=C59B27" alt="View Repository" /></a></p>
     </td>
-
-    <!-- PROJECT 2: AHNAF & CO -->
     <td width="50%" valign="top" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
-      <h3>🛍️ Ahnaf & Co</h3>
-      <p>
-        <strong>Full-Stack MERN E-Commerce Platform & Administration Suite</strong>
-      </p>
-      <p>
-        A modern, responsive e-commerce web platform featuring real-time client-side interactions, persistent state management, multi-step checkout workflows, and a dedicated administrative operations portal.
-      </p>
-      <p>
-        <strong>Tech Stack:</strong><br/>
-        <code>MongoDB</code> • <code>Express.js</code> • <code>React.js</code> • <code>Node.js</code> • <code>JavaScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code> • <code>Axios</code> • <code>JWT</code> • <code>Mongoose</code>
-      </p>
-      <p>
-        <strong>Key Features:</strong>
-        <ul>
-          <li>Interactive product discovery, multi-attribute filtering & search</li>
-          <li>Rich product viewports, dynamic galleries & review threads</li>
-          <li>Persistent shopping cart & multi-step COD checkout flow</li>
-          <li>Customer order tracking and transaction history management</li>
-          <li>Dedicated admin portal with product CRUD & inventory controls</li>
-        </ul>
-      </p>
-      <p>
-        <a href="https://github.com/mohamedemaan/ahnaf-co" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-F59E0B?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=C59B27" alt="GitHub Repo" />
-        </a>
-        &nbsp;
-        <a href="https://ahnaf-co.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Store-ahnaf--co.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=0D1117" alt="Customer Website" />
-        </a>
-        <br/><br/>
-        <a href="https://ahnaf-admin.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Admin_Portal-ahnaf--admin.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=0D1117" alt="Admin Dashboard" />
-        </a>
-      </p>
+      <h3>🛍️ Ahnaf &amp; Co</h3>
+      <p><strong>Full-Stack MERN E-Commerce Platform &amp; Administration Suite</strong></p>
+      <p>A modern, responsive e-commerce web platform featuring real-time client-side interactions, persistent state management, multi-step checkout workflows, and a dedicated administrative operations portal.</p>
+      <p><strong>Tech Stack:</strong><br/>
+      <code>MongoDB</code> • <code>Express.js</code> • <code>React.js</code> • <code>Node.js</code> • <code>JavaScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code> • <code>Axios</code> • <code>JWT</code> • <code>Mongoose</code></p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Interactive product discovery, multi-attribute filtering &amp; search</li>
+        <li>Rich product viewports, dynamic galleries &amp; review threads</li>
+        <li>Persistent shopping cart &amp; multi-step COD checkout flow</li>
+        <li>Customer order tracking and transaction history management</li>
+        <li>Dedicated admin portal with product CRUD &amp; inventory controls</li>
+      </ul>
+      <p><a href="https://github.com/mohamedemaan/ahnaf-co" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=C59B27" alt="GitHub Repo" /></a>&nbsp;<a href="https://ahnaf-co.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Store-ahnaf--co.vercel.app-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Customer Website" /></a><br/><br/><a href="https://ahnaf-admin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Admin_Portal-ahnaf--admin.vercel.app-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Admin Dashboard" /></a></p>
     </td>
   </tr>
 </table>
@@ -309,7 +267,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <!-- 🏆 CERTIFICATIONS                          -->
 <!-- ========================================== -->
 
-<h2 align="center">🏆 Honors & Certifications</h2>
+<h2 align="center">🏆 Honors &amp; Certifications</h2>
 
 <p align="center">
   <em>Verified technical credentials and domain proficiencies</em>
@@ -320,12 +278,12 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
     <td width="50%" align="center" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
       <h4>🐍 Python (Basic)</h4>
       <p><strong>Issuing Organization:</strong> HackerRank</p>
-      <img src="https://img.shields.io/badge/Certified-HackerRank_Python-0D1117?style=for-the-badge&logo=hackerrank&logoColor=F59E0B&labelColor=0D1117" alt="HackerRank Python Basic" />
+      <img src="https://img.shields.io/badge/Certified-HackerRank_Python-0D1117?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="HackerRank Python Basic" />
     </td>
     <td width="50%" align="center" style="border: 1px solid #C59B27; border-radius: 8px; background: #0D1117;">
       <h4>☁️ AWS Machine Learning with NLP</h4>
       <p><strong>Issuing Organization:</strong> AWS Academy</p>
-      <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_NLP-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=F59E0B&labelColor=0D1117" alt="AWS Machine Learning NLP" />
+      <img src="https://img.shields.io/badge/AWS_Academy-Machine_Learning_NLP-0D1117?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="AWS Machine Learning NLP" />
     </td>
   </tr>
 </table>
@@ -340,7 +298,7 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 <!-- 📊 CONTRIBUTION GRAPH                      -->
 <!-- ========================================== -->
 
-<h2 align="center">📊 Contribution Activity & Visualizer</h2>
+<h2 align="center">📊 Contribution Activity &amp; Visualizer</h2>
 
 <p align="center">
   <em>Continuous development activity and commit telemetry across open-source initiatives</em>
@@ -360,23 +318,15 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 
 <div align="center">
 
-  <h2>Support & Connect 🔥</h2>
+  <h2>Support &amp; Connect 🔥</h2>
 
   <p>
-    <em>Feel free to reach out for collaborations, machine learning discussions, or engineering opportunities!</em>
+    <em>Interested in collaboration, machine learning research, or full-stack engineering opportunities? Let's connect!</em>
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/mohamed-emaan-05b829408" target="_blank">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F59E0B&labelColor=0D1117" alt="Connect on LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/mohamedemaan" target="_blank">
-      <img src="https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B&labelColor=0D1117" alt="Follow on GitHub" />
-    </a>
-    &nbsp;
     <a href="mailto:mohamedemaan.a@gmail.com">
-      <img src="https://img.shields.io/badge/Send_an_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=0D1117" alt="Send an Email" />
+      <img src="https://img.shields.io/badge/Get_In_Touch-Send_an_Email-F59E0B?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117&amp;labelColor=C59B27" alt="Send an Email" />
     </a>
   </p>
 
@@ -387,12 +337,12 @@ I am deeply passionate about Artificial Intelligence, Machine Learning, Generati
 
   <!-- FOOTER -->
   <p>
-    <sub>Designed with a <strong>Premium Black & Gold Cinematic Aesthetic</strong> • Mohamed Emaan © 2026</sub>
+    <sub>Designed with a <strong>Premium Black &amp; Gold Cinematic Aesthetic</strong> • Mohamed Emaan © 2026</sub>
   </p>
   
   <p>
     <a href="#">
-      <img src="https://img.shields.io/badge/Back_To_Top-TOP-0D1117?style=flat&logoColor=F59E0B&labelColor=0D1117" alt="Back to Top" />
+      <img src="https://img.shields.io/badge/Back_To_Top-TOP-0D1117?style=flat&amp;logoColor=F59E0B&amp;labelColor=0D1117" alt="Back to Top" />
     </a>
   </p>
 
