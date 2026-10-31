@@ -1,15 +1,15 @@
 <svg width="100%" height="24" viewBox="0 0 1000 24" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="gold-fade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFD700" stop-opacity="0" />
-      <stop offset="15%" stop-color="#C59B27" stop-opacity="0.3" />
-      <stop offset="35%" stop-color="#F59E0B" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#FFF4C2" stop-opacity="1" />
-      <stop offset="65%" stop-color="#F59E0B" stop-opacity="0.8" />
-      <stop offset="85%" stop-color="#C59B27" stop-opacity="0.3" />
-      <stop offset="100%" stop-color="#FFD700" stop-opacity="0" />
+    <linearGradient id="chrome-fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94A3B8" stop-opacity="0" />
+      <stop offset="15%" stop-color="#64748B" stop-opacity="0.3" />
+      <stop offset="35%" stop-color="#CBD5E1" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="65%" stop-color="#CBD5E1" stop-opacity="0.8" />
+      <stop offset="85%" stop-color="#64748B" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#94A3B8" stop-opacity="0" />
     </linearGradient>
-    <filter id="glow" x="-10%" y="-50%" width="120%" height="200%">
+    <filter id="chrome-glow" x="-10%" y="-50%" width="120%" height="200%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -18,12 +18,12 @@
     </filter>
   </defs>
   <!-- Outer Glow Line -->
-  <line x1="20" y1="12" x2="980" y2="12" stroke="url(#gold-fade)" stroke-width="3" filter="url(#glow)" opacity="0.6" />
+  <line x1="20" y1="12" x2="980" y2="12" stroke="url(#chrome-fade)" stroke-width="3" filter="url(#chrome-glow)" opacity="0.6" />
   <!-- Sharp Core Line -->
-  <line x1="50" y1="12" x2="950" y2="12" stroke="url(#gold-fade)" stroke-width="1.5" />
+  <line x1="50" y1="12" x2="950" y2="12" stroke="url(#chrome-fade)" stroke-width="1.5" />
   <!-- Center Diamond Accent -->
   <g transform="translate(500, 12)">
-    <polygon points="0,-6 6,0 0,6 -6,0" fill="#FFF4C2" filter="url(#glow)" />
-    <circle cx="0" cy="0" r="2" fill="#FFD700" />
+    <polygon points="0,-6 6,0 0,6 -6,0" fill="#FFFFFF" filter="url(#chrome-glow)" />
+    <circle cx="0" cy="0" r="2" fill="#CBD5E1" />
   </g>
 </svg>
