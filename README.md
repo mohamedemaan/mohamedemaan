@@ -12,8 +12,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=E2E8F0&center=true&vCenter=true&width=620&height=50&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Generative+AI+Explorer;Predictive+Analytics+Enthusiast;Building+Intelligent+Applications" alt="Dynamic Typing Roles" />
   </a>
 
-  <!-- CHROME SECTION SEPARATOR -->
-  <img src="assets/gold-divider.svg" width="100%" />
+  <!-- ANIMATED AI ROBOT GUIDE & CHROMIUM SEPARATOR -->
+  <a href="https://github.com/mohamedemaan">
+    <img src="assets/robot-guide.gif" width="100%" alt="AI Robot Guide" />
+  </a>
 
 </div>
 
